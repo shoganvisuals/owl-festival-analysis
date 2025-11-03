@@ -75,19 +75,21 @@
 ![owl picture](main/images/owl.png)
 
 
-***Chart 1***
 
+***Chart 1***
 ![chart 1](main/images/Dashboard1.png)
 
 
-***Chart 2***
 
+***Chart 2***
 ![chart 1](main/images/Dashboard2.png)
+
 
 
 ***Chart 3***
 
 ![chart 1](main/images/Dashboard3.png)
+
 
 
 ***Chart 4***
