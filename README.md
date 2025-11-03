@@ -90,7 +90,7 @@
 ![chart 1](main/images/Dashboard3.png)
 
 
-***Chart 4**
+***Chart 4***
 
 ![chart 1](main/images/Dashboard4.png)
 
