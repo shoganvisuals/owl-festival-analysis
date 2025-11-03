@@ -37,6 +37,28 @@
 
 ---
 
+## What Is the Happiness Index?
+
+It’s a **0–100 score** of how happy Ventura residents felt each month.
+
+| Month | Score | Why? |
+|-------|-------|------|
+| **Winter** | 74–76 | Cozy but quiet |
+| **April** | **87** | **Owl Festival!** |
+| **August** | 86 | Music Under the Stars |
+
+**How I made it:**  
+1. Started with **Ventura’s real 2022 Community Survey**  
+2. Added **+10 to +16 points** during big events (fun = joy!)  
+3. Used **California festival studies** (events boost mood ~12–18%) to keep it realistic  
+
+**Result:**  
+**+1 happiness point = +$9,500 in local spending**  
+**Owl Fest = April #1 happiest & richest month**
+
+---
+
+
 <div align="center">
   <tableau-viz id="tableau-viz" 
     src="https://public.tableau.com/views/OliviaOwlFestival_1738951234567/Dashboard1" 
@@ -64,7 +86,7 @@
 - **p = 0.015** → **Only 1.5% chance this is luck**  
   *(99.85% sure it’s real)*  
 - **Residuals** → Show **who beat expectations**  
-  *(April & August = gold & silver medalists)*
+  *(April & August = 1st & 2nd place)*
 
 ---
 
