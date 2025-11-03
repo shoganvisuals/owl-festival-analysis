@@ -109,7 +109,6 @@ A **0–100 score** of how happy Ventura residents felt each month, modeled from
 ## Images
 
 ***Owl image***
-
 ![owl picture](main/images/owl.png)
 
 
@@ -125,13 +124,11 @@ A **0–100 score** of how happy Ventura residents felt each month, modeled from
 
 
 ***Chart 3***
-
 ![chart 1](main/images/Dashboard3.png)
 
 
 
 ***Chart 4***
-
 ![chart 1](main/images/Dashboard4.png)
 
 
