@@ -145,7 +145,7 @@ A **0–100 score** of how happy Ventura residents felt each month, modeled from
 ---
 
 ## Built With  
-- **Tableau Public** – Interactive viz  
+- **Tableau Public** – Interactive visualization 
 - **Excel** – Data modeling  
 - **GitHub Pages** – Live demo  
 - and... Public service passion  
@@ -157,7 +157,7 @@ A **0–100 score** of how happy Ventura residents felt each month, modeled from
 
 ---
 
-*Built for City of Ventura Parks & Rec – Management Analyst I*
+*Built for City of Ventura Parks & Recreation – Management Analyst I*
 
 
 
