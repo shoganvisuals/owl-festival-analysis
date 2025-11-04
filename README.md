@@ -1,5 +1,5 @@
 # Olivia's Owl Festival: Happiness and Economic Impact Analysis 🦉
-**Ventura Parks & Recreation | Portfolio Project by Scott Hogan**  
+**City of Ventura Parks & Recreation | Portfolio Project by Scott Hogan**  
 *Tableau Public | Excel | Data Synthesis | Community Impact Modeling*
 
 ---
@@ -82,7 +82,7 @@ A **0–100 score** of how happy Ventura residents felt each month, modeled from
 **Happiness Index (0–100):**
 - **Baseline**: Ventura's 2022 Community Survey (resident satisfaction, quality of life)
 - **Event boosts**: +10 to +16 points during festivals, based on CA studies showing 12–18% mood uplift
-- **Example**: April Owl Festival = +11 points → 87 total
+- **Example**: April Owl Festival = +12 points → 87 total
 
 **Economic Impact:**
 - **Spending**: $50–$100 per attendee (tickets, food, parking)
